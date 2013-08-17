@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Manada4</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mapa">Mapa</string>
+    <string name="parar_servicio">Parar Servicio</string>
+    <string name="activar_servicio">Activar Servicio</string>
+    <string name="title_activity_mapa">MapaActivity</string>
+    <string name="panico">Panico</string>
+    <string name="title_activity_contactos">Contactos</string>
+    <string name="nombre_contacto_1">Nombre Contacto 1</string>
+    <string name="nombre_contacto_2">Nombre Contacto 2</string>
+    <string name="nombre_contacto_3">Nombre Contacto 3</string>
+    <string name="alerta">Alerta</string>
+    <string name="guardar">Guardar</string>
+    <string name="numero">+56 7 7777 7777</string>
+    <string name="guardar_contactos">Guardar Contactos</string>
+    <string name="title_activity_ver_contactos">VerContactosActivity</string>
+    <string name="lista_vacia">Lista Vacia</string>
+    <string name="descripci_n_del_contenido_de_la_imagen">Descripción del contenido de la imagen</string>
+    <string name="medium_text">Medium Text</string>
+    <string name="ver_contactos">Ver Contactos</string>
+    <string name="v">V</string>
+	<string name="service_started">Servicio Activado</string>
+	<string name="service_label">Manada Servicio</string>
+</resources>

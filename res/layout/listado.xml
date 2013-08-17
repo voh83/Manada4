@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Listado de eventos Manada3; Desarrollado por VOH Ingenieria.-->
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ListView_listado"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+</ListView>
